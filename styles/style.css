@@ -22,13 +22,14 @@ main {
 
 .button1 {
     padding: 0.5em 1em;
-    background-color: #007BFF;
-    color: white;
+    color: gray;
+    font-weight:bold;
     border: none;
     border-radius: 5px;
     cursor: pointer;
     background-color: #f4f4f4;
-    border-radius: 2px;
+    border-radius: 2px; 
+    display:inline-block;
 }
 
 button:hover {
